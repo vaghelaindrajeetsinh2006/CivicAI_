@@ -1,0 +1,6 @@
+{
+  "name": "CivicAI - AI Civic & Legal Navigator",
+  "description": "AI-powered civic and legal navigator translating bureaucratic complexity into clear, actionable steps, rights navigation, RTI drafting, and scheme eligibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

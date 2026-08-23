@@ -6,7 +6,7 @@ import {defineConfig} from 'vite';
 export default defineConfig(() => {
   return {
     // Relative asset paths keep the Vite build working when hosted under a GitHub Pages project URL.
-    base: '/CivicAI/',
+    base: '/CivicAI_/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
